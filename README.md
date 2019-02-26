@@ -1,1 +1,1 @@
-# contributors
+# JsToBigData welcomes contributors.
